@@ -103,7 +103,7 @@ export function getProceduralPreviewSvg(theme: string, projectNo: string, projec
   return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svgData)}`;
 }
 
-// 25 Combined Projects representing all 50 students paired 2-by-2 with accurate live host status
+// 25 Combined Projects representing all 50 students paired 2-by-2
 export const projects: ProjectItem[] = [
   {
     id: 1,
@@ -175,15 +175,15 @@ export const projects: ProjectItem[] = [
     students: ["AFNAN MOHAMMED P FASSAL (Roll 05)", "LALITHAMBIKA P NAIR (Roll 46)"],
     studentNames: "AFNAN MOHAMMED P FASSAL & LALITHAMBIKA P NAIR",
     rollNumbers: "Roll 05 & Roll 46",
-    project: "NO PROJECT SUBMITTED",
-    category: "UNSUBMITTED",
-    description: "No GitHub repository link or project title submitted in the assignment sheet.",
-    github: "",
-    live: "",
-    hasLiveHost: false,
-    previewTheme: "silver-wireframe",
-    tags: ["Not Submitted", "Pending Repo"],
-    submitted: false
+    project: "ArtisanConnect",
+    category: "ARTISAN & MARKETPLACE",
+    description: "ArtisanConnect platform empowering local artisans and craftsmen to list handmade products, showcase artwork, and connect directly with buyers.",
+    github: "https://github.com/afnanmpf/artistconnect",
+    live: "https://artisanconnect-elet.vercel.app/",
+    hasLiveHost: true,
+    previewTheme: "cyan-nodes",
+    tags: ["Submitted", "Vercel Live", "Full Stack", "JavaScript", "HTML/CSS"],
+    submitted: true
   },
   {
     id: 6,

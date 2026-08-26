@@ -57,7 +57,7 @@ Students worked in **paired 2-member teams** (Roll 01 & 50, Roll 02 & 49, etc.),
 | **02** | Abhishek M Kumar *(02)* & Adersh Rajeev *(49)* | Hotel Booking System | Booking System | Code Repo | [GitHub](https://github.com/abhicollege098-art/HOTEL-BOOKING2) |
 | **03** | Adhithyan Manoj *(03)* & Jais Jojen *(48)* | Bus Booking System | Transportation | Deployed | [Live Site](https://collegeprojectfullstack.vercel.app/) • [GitHub](https://github.com/adhithyan-manoj/collegeprojectfullstack) |
 | **04** | Afeya *(04)* & Jishnu KS *(47)* | Hotel Centre Management System (HCMS) | Management System | Code Repo | [GitHub](https://github.com/KSJISHNU/HCMS) |
-| **05** | Afnan Mohammed P Fassal *(05)* & Lalithambika P Nair *(46)* | *No Project Submitted* | Unsubmitted | Pending | *Repo Pending* |
+| **05** | Afnan Mohammed P Fassal *(05)* & Lalithambika P Nair *(46)* | ArtisanConnect | Artisan & Marketplace | Deployed | [Live Site](https://artisanconnect-elet.vercel.app/) • [GitHub](https://github.com/afnanmpf/artistconnect) |
 | **06** | Alan Deepu *(06)* & Jeswin Jacob *(45)* | Hostel Mess Management System | Campus System | Code Repo | [GitHub](https://github.com/alandeepu77/hostelmess) |
 | **07** | Alwin Antony *(07)* & Sojo Joseph Thomas *(44)* | Student Management System | Educational | Code Repo | [GitHub](https://github.com/alw3611/student-management-system) |
 | **08** | Ann Anna Jose *(08)* & Shaun S Thomas *(43)* | Employee Management System | HR & Enterprise | Code Repo | [GitHub](https://github.com/shaunsthomas/employee-management-syste) |

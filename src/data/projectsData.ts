@@ -259,10 +259,10 @@ export const projects: ProjectItem[] = [
     category: "FINANCIAL",
     description: "Financial loan processing web application for gold appraisal, interest rate calculation, and customer pledge accounts.",
     github: "https://github.com/ampattuantony-dotcom/Gold-Loan-Management-System",
-    live: "https://gold-loan-management-system.vercel.app/",
+    live: "https://gold-loan-management-system.onrender.com/",
     hasLiveHost: true,
     previewTheme: "neon-grid",
-    tags: ["Submitted", "Vercel Live", "Finance UI", "Full Stack"],
+    tags: ["Submitted", "Render Live", "Finance UI", "Full Stack"],
     submitted: true
   },
   {
@@ -399,15 +399,15 @@ export const projects: ProjectItem[] = [
     students: ["GEO JOHN CHANDY (Roll 19)", "MELVIN MARTIN (Roll 32)"],
     studentNames: "GEO JOHN CHANDY & MELVIN MARTIN",
     rollNumbers: "Roll 19 & Roll 32",
-    project: "NO PROJECT SUBMITTED",
-    category: "UNSUBMITTED",
-    description: "No GitHub repository link or project title submitted in the assignment sheet.",
-    github: "",
-    live: "",
-    hasLiveHost: false,
-    previewTheme: "cyan-nodes",
-    tags: ["Not Submitted", "Pending Repo"],
-    submitted: false
+    project: "Music Club Management System",
+    category: "MANAGEMENT SYSTEM",
+    description: "Centralized club operations portal for managing music club memberships, audition submissions, gig setlists, rehearsal attendance, and sound gear inventory.",
+    github: "https://github.com/geojohnch/musicclubmanagementsystem",
+    live: "https://musicclubmanagementsystem.onrender.com/",
+    hasLiveHost: true,
+    previewTheme: "wave-lines",
+    tags: ["Submitted", "Render Live", "Music Club", "Full Stack", "TypeScript"],
+    submitted: true
   },
   {
     id: 20,

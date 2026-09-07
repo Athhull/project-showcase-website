@@ -71,7 +71,7 @@ Students worked in **paired 2-member teams** (Roll 01 & 50, Roll 02 & 49, etc.),
 | **16** | Athul Krishnan M *(16)* & Piush Shaji *(35)* | SB SkillHub Course Registration | Course Registration | Deployed | [Live Site](https://sb-skillhub-registration.vercel.app/) • [GitHub](https://github.com/Athhull/sbskill-hub-coures-registarion) |
 | **17** | Devika Suresh *(17)* & Nirenjen K Suku *(34)* | Cab Booking System | Transportation | Deployed | [Live Site](https://n1rnjn.github.io/cab_booking/) • [GitHub](https://github.com/n1rnjn/cab_booking) |
 | **18** | Fiya Mariyam Chackochan *(18)* & Melvin Thomas *(33)* | *No Project Submitted* | Unsubmitted | Pending | *Repo Pending* |
-| **19** | Geo John Chandy *(19)* & Melvin Martin *(32)* | *No Project Submitted* | Unsubmitted | Pending | *Repo Pending* |
+| **19** | Geo John Chandy *(19)* & Melvin Martin *(32)* | Music Club Management System | Management System | Deployed | [Live Site](https://musicclubmanagementsystem.onrender.com/) • [GitHub](https://github.com/geojohnch/musicclubmanagementsystem) |
 | **20** | Gokulkrrishnan C *(20)* & Meenu S Babu *(31)* | Employee Leave Management System | HR & Enterprise | Deployed | [Live Site](https://employee-leave-management-delta.vercel.app/) • [GitHub](https://github.com/meenusbabu13-ship-it/employee-leave-management) |
 | **21** | Harikrishnan U *(21)* & Meby Manoj *(30)* | Billing System | Retail & Commerce | Deployed | [Live Site](https://billing-system-jet-tau.vercel.app/) • [GitHub](https://github.com/harikrishnanforwork-byte/Billing-system) |
 | **22** | Jerin Benny *(22)* & Jovino V Jose *(29)* | Medical Store Management | Pharmacy | Code Repo | [GitHub](https://github.com/jerinbenny83-cmyk/medical-store-management) |
